@@ -19,4 +19,4 @@ His project is Fast Helmholtz solvers on Multi-Threaded Atchitectures under the 
 
 # Blog on github
 
-His blog on gihub is [here](http://gitbub.com/dairy-life/blog) !
+His blog on github is [here](http://gitbub.com/dairy-life/blog) !
