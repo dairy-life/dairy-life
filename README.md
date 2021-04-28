@@ -21,4 +21,4 @@ His project is Fast Helmholtz solvers on Multi-Threaded Atchitectures under the 
 
 His blog on github is [here](https://github.com/dairy-life/blog) !
 
-His personal website is [here](dairy-life.github.io) !
+His personal website is [here](https://dairy-life.github.io/) !
