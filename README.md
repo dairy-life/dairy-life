@@ -26,7 +26,7 @@ Update date of this profile: **26th septembre 2022**.
 # Publications and preprints
 
 1.  R. Dai, A. Modave, J.-F. Remacle, C. Geuzaine, [*Multidirectional sweeping preconditioners with non-overlapping checkerboard domain decomposition for Helmholtz problems*](https://www.sciencedirect.com/science/article/pii/S0021999121007828), <em>Journal of Computational Physics</em>, page 110887, 2022.
-2.  R. Dai, [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030), <em>UCLouvain</em>.
+2.  R. Dai, [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030), <em>UCLouvain</em>, 2022.
 
 # Blog on github
 
