@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+# Biography
+
 **Ruiyang DAI** is a post-doc at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr/) of [Sorbonne University](https://www.sorbonne-universite.fr/) under the supervision of [Bruno Despres](https://www.ljll.math.upmc.fr/despres/).
 
 He was a PhD student at [UCLouvain](https://uclouvain.be/en/index.html) in Belgium under the supervision of [Jean-Francois Remacle](https://www.hextreme.eu/staff-members/913/) and [Christophe Geuzaine](https://people.montefiore.uliege.be/geuzaine/), and a member in the [HEXTREME](https://www.hextreme.eu/) team. 
@@ -20,6 +22,11 @@ Before he studied numerical methods for Helmholtz problems.
 Email address: __ruiyang.dai@upmc.fr__
 
 Update date of this profile: **26th septembre 2022**.
+
+# Publications and preprints
+
+1.  R. Dai, A. Modave, J.-F. Remacle, C. Geuzaine, [*Multidirectional sweeping preconditioners with non-overlapping checkerboard domain decomposition for Helmholtz problems*](https://www.sciencedirect.com/science/article/pii/S0021999121007828), <em>Journal of Computational Physics</em>, page 110887, 2022.
+2.  R. Dai, [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030), <em>UCLouvain</em>.
 
 # Blog on github
 
