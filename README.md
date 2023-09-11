@@ -15,11 +15,17 @@ He was a PhD student at [UCLouvain](https://uclouvain.be/en/index.html) in Belgi
 
 He defended his thesis on 17th Novembre 2021. Here is [his thesis' introduction](https://www.fsa.uliege.be/cms/c_7439141/fr/generalized-sweeping-preconditioners-for-domain-decomposition-methods-applied-to-helmholtz-problems) and his [manuscript](https://orbi.uliege.be/handle/2268/260200).
 
+<---
 Currently, he is working on models form plasmas physics, 
 and his research interests lie in the broad area of kinetic equations. 
 His main topic of study is the numerical methods of systems of partial differential equations that describe plasmas, such as the magnetized Vlasov-Poisson system.
 
 Before he studied numerical methods for Helmholtz problems.
+--->
+
+At present, he is actively engaged in pioneering research within the field of plasma physics, with a primary focus on advancing our understanding of kinetic equations. His research endeavors primarily revolve around the development and refinement of numerical methods tailored to address complex systems of partial differential equations that elucidate the behavior of plasmas. A noteworthy area of his expertise encompasses the intricate numerical techniques required for modeling plasmas, including but not limited to the magnetized Vlasov-Poisson system.
+
+Prior to his current pursuits, he dedicated his scholarly efforts to the study and enhancement of numerical methods applicable to Helmholtz problems.
 
 Email address: __ruiyang.dai@upmc.fr__
 
