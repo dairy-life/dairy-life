@@ -3,6 +3,8 @@ dairy-life/dairy-life is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+Update date of this profile: **26th septembre 2022**.
+
 ---
 
 # Biography
@@ -21,15 +23,15 @@ Before he studied numerical methods for Helmholtz problems.
 
 Email address: __ruiyang.dai@upmc.fr__
 
-Update date of this profile: **26th septembre 2022**.
-
 # Publications and preprints
 
 1.  R. Dai, A. Modave, J.-F. Remacle, C. Geuzaine, [*Multidirectional sweeping preconditioners with non-overlapping checkerboard domain decomposition for Helmholtz problems*](https://www.sciencedirect.com/science/article/pii/S0021999121007828), <em>Journal of Computational Physics</em>, page 110887, 2022.
 2.  R. Dai, [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030), <em>UCLouvain</em>, 2021.
 
+<!---
 # Blog on github
 
 His personal website is [here](https://dairy-life.github.io/) !
 
 His blog on github is [here](https://github.com/dairy-life/blog) !
+--->
