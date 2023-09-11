@@ -15,7 +15,7 @@ He was a PhD student at [UCLouvain](https://uclouvain.be/en/index.html) in Belgi
 
 He defended his thesis on 17th Novembre 2021. Here is [his thesis' introduction](https://www.fsa.uliege.be/cms/c_7439141/fr/generalized-sweeping-preconditioners-for-domain-decomposition-methods-applied-to-helmholtz-problems) and his [manuscript](https://orbi.uliege.be/handle/2268/260200).
 
-<---
+<!---
 Currently, he is working on models form plasmas physics, 
 and his research interests lie in the broad area of kinetic equations. 
 His main topic of study is the numerical methods of systems of partial differential equations that describe plasmas, such as the magnetized Vlasov-Poisson system.
