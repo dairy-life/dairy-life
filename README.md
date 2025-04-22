@@ -3,41 +3,39 @@ dairy-life/dairy-life is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Update date of this profile: **26th septembre 2022**.
+Update date of this profile: **22th April 2025**.
 
 ---
 
 # Biography
 
-**Ruiyang DAI** is a post-doc at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr/) of [Sorbonne University](https://www.sorbonne-universite.fr/) under the supervision of [Bruno Despres](https://www.ljll.math.upmc.fr/despres/).
+I am currently a post-doc researcher at [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr/) of [Sorbonne University](https://www.sorbonne-universite.fr/), working in scientific computing in applied mathematics, with Professor [Bruno Després](https://www.ljll.math.upmc.fr/despres/). In particular I'm interested in kinetic equations, the Vlasov-Poisson system, the Fokker-Planck-Landau equation as well as their applications to plasma physics.
 
-He was a PhD student at [UCLouvain](https://uclouvain.be/en/index.html) in Belgium under the supervision of [Jean-Francois Remacle](https://www.hextreme.eu/staff-members/913/) and [Christophe Geuzaine](https://people.montefiore.uliege.be/geuzaine/), and a member in the [HEXTREME](https://www.hextreme.eu/) team. 
+Prior to my current pursuits, I dedicated my scholarly efforts to the study and enhancement of numerical methods applicable to Helmholtz problems.
 
-He defended his thesis on 17th Novembre 2021. Here is [his thesis' introduction](https://www.fsa.uliege.be/cms/c_7439141/fr/generalized-sweeping-preconditioners-for-domain-decomposition-methods-applied-to-helmholtz-problems) and his [manuscript](https://orbi.uliege.be/handle/2268/260200).
+I completed my PhD at [UCLouvain](https://uclouvain.be/en/index.html) in Belgium under the supervision of [Jean-Francois Remacle](https://www.hextreme.eu/staff-members/913/) and [Christophe Geuzaine](https://people.montefiore.uliege.be/geuzaine/), as a member in the [HEXTREME](https://www.hextreme.eu/) team. 
 
-<!---
-Currently, he is working on models form plasmas physics, 
-and his research interests lie in the broad area of kinetic equations. 
-His main topic of study is the numerical methods of systems of partial differential equations that describe plasmas, such as the magnetized Vlasov-Poisson system.
+I defended my thesis on 17th Novembre 2021. Here is [my thesis' introduction](https://www.fsa.uliege.be/cms/c_7439141/fr/generalized-sweeping-preconditioners-for-domain-decomposition-methods-applied-to-helmholtz-problems) and my [manuscript](https://orbi.uliege.be/handle/2268/260200).
 
-Before he studied numerical methods for Helmholtz problems.
---->
-
-At present, he is actively engaged in pioneering research within the field of plasma physics, with a primary focus on advancing our understanding of kinetic equations. His research endeavors primarily revolve around the development and refinement of numerical methods tailored to address complex systems of partial differential equations that elucidate the behavior of plasmas. A noteworthy area of his expertise encompasses the intricate numerical techniques required for modeling plasmas, including but not limited to the magnetized Vlasov-Poisson system.
-
-Prior to his current pursuits, he dedicated his scholarly efforts to the study and enhancement of numerical methods applicable to Helmholtz problems.
-
-Email address: __ruiyang.dai@upmc.fr__
+Email address: __ruiyang.dai@sorbonne-universite.fr__
 
 # Publications and preprints
 
-1.  R. Dai, A. Modave, J.-F. Remacle, C. Geuzaine, [*Multidirectional sweeping preconditioners with non-overlapping checkerboard domain decomposition for Helmholtz problems*](https://www.sciencedirect.com/science/article/pii/S0021999121007828), <em>Journal of Computational Physics</em>, page 110887, 2022.
-2.  R. Dai, [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030), <em>UCLouvain</em>, 2021.
-
-<!---
-# Blog on github
-
-His personal website is [here](https://dairy-life.github.io/) !
-
-His blog on github is [here](https://github.com/dairy-life/blog) !
---->
+1.  R. Dai.
+    [*Generalized sweeping preconditioners for domain decomposition methods applied to Helmholtz problems*](https://dial.uclouvain.be/pr/boreal/object/boreal:258030). 
+    <em>UCLouvain</em>, 2021.
+2.  R. Dai, A. Modave, J.-F. Remacle, C. Geuzaine. 
+    [*Multidirectional sweeping preconditioners with non-overlapping checkerboard domain decomposition for Helmholtz problems*](https://www.sciencedirect.com/science/article/pii/S0021999121007828). 
+    <em>Journal of Computational Physics</em>, 453:110887, 2022, Elsevier.
+    doi : 10.1016/j.jcp.2021.110887
+4.  R. Dai.
+    [*A Block Jacobi Sweeping Preconditioner for the Helmholtz Equation*](https://link.springer.com/chapter/10.1007/978-3-031-50769-4_17). 
+    Domain Decomposition Methods in Science and Engineering XXVII, pp. 149-156, 2022. Springer.
+    doi : 10.1007/978-3-031-50769-4_17
+6.  F. Charles, B. Després, R. Dai and S. A. Hirstoaga.
+    [*Discrete moments models for Vlasov equations with non constant strong magnetic limit*](https://comptes-rendus.academie-sciences.fr/mecanique/articles/10.5802/crmeca.219/). 
+    <em>Comptes Rendus. Mécanique</em>, 351(S1):307–329, 2023.
+    doi : 10.5802/crmeca.219.
+8.  R. Dai, and B. Després. 
+    [*On the quadratic stability of asymmetric Hermite basis and application to plasma physics*](https://arxiv.org/abs/2405.07811). 
+    To appear in Journal of Scientific Computing, 2024.
