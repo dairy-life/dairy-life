@@ -42,8 +42,10 @@ Email address: __ruiyang.dai@sorbonne-universite.fr__
 
 # Public repositories
 
-1.  https://gitlab.lpma.math.upmc.fr/hxtddm
-2.  https://gitlab.lpma.math.upmc.fr/asym
-3.  https://gitlab.lpma.math.upmc.fr/dai/fokker_planck_ia
-4.  https://gitlab.lpma.math.upmc.fr/dai/4ma006_su
-5.  https://gitlab.lpma.math.upmc.fr/dai/intro_edp_u-paris_tp
+1.  Helmholtz equation : https://gitlab.com/ruiyang/ddmwave
+2.  Helmholtz equation : https://gitlab.lpma.math.upmc.fr/hxtddm
+4.  Vlasov-Poisson equation with strong magnetic field : https://gitlab.lpma.math.upmc.fr/muffin/muf
+5.  Vlasov-Poisson equation based on asymmetrically-weighted basis : https://gitlab.lpma.math.upmc.fr/asym
+6.  Vlasov-Poisson equation with Fokker-Planck operator : https://gitlab.lpma.math.upmc.fr/dai/fokker_planck_ia
+7.  Teaching materials : https://gitlab.lpma.math.upmc.fr/dai/4ma006_su
+8.  Teaching materials : https://gitlab.lpma.math.upmc.fr/dai/intro_edp_u-paris_tp
