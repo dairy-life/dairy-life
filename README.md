@@ -39,3 +39,11 @@ Email address: __ruiyang.dai@sorbonne-universite.fr__
 8.  R. Dai, and B. Després. 
     [*On the quadratic stability of asymmetric Hermite basis and application to plasma physics*](https://arxiv.org/abs/2405.07811). 
     To appear in Journal of Scientific Computing, 2024.
+
+# Public repositories
+
+1.  https://gitlab.lpma.math.upmc.fr/hxtddm
+2.  https://gitlab.lpma.math.upmc.fr/asym
+3.  https://gitlab.lpma.math.upmc.fr/dai/fokker_planck_ia
+4.  https://gitlab.lpma.math.upmc.fr/dai/4ma006_su
+5.  https://gitlab.lpma.math.upmc.fr/dai/intro_edp_u-paris_tp
